@@ -56,7 +56,7 @@ In your Objective-C bridging header file, import every Objective-C header you wa
 In Build Settings. When importing swift into ObjC, remember that the file name is called “yourModule-Swift.h”
 
 
-Apps from this morning can be found in here:
+Our word cloud is also in here:   ![alt text](https://github.com/AmirJahan/LHL---W04-D02/blob/master/W4D2%20WC.png)
 
 
 
